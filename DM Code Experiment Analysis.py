@@ -1,7 +1,7 @@
 ﻿import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
-import os
+
 plt.style.use('ggplot')
 # config--处理绘s图中文字符乱码的问题
 plt.rcParams['font.sans-serif'] = ['FangSong']   # 用来正常显示中文标签
